@@ -1,12 +1,12 @@
 body
 {
- background-color: white;
+ background-color: #e6ffff;
  margin: 0 !important;
 }
 
 h1
 {
-	font-size: 3vw;
+	font-size: 30px;
 	
 }
 
@@ -17,6 +17,8 @@ h1
 
 #gora
 {
+	width: 30px; 
+	height= 30px;
 	padding: 5px;
 }
 
