@@ -15,6 +15,17 @@ h1
  width: 100%;
 }
 
+#logo
+{
+  width: 5%; 
+  margin-top:auto;
+}
+
+.logo img
+{
+	width:100%;
+	display:block;
+}
 
 #top
 {
@@ -31,12 +42,6 @@ h1
 #tytul
 {
   text-align: center;
-}
-
-#logo
-{
-  width: 5%; 
-  margin-top:auto;
 }
 
 
