@@ -154,11 +154,10 @@ h1
 .opis
 {
 	width:70%;
-	height: 200px;
+	height: 400px;
 	margin: auto;
 	text-align: justify;
-	padding:5px;
-	overflow: scroll;
+	padding: 15px;
 }
 
 
