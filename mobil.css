@@ -171,7 +171,7 @@ ol,ul
 	font-size: 17px;
 	height: 35%;
 	line-height: 200%;
-	display: flex;
+	display: block;
 	height:auto;
 	margin-top: 5px;
 	margin-bottom: auto;
