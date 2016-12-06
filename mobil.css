@@ -176,7 +176,7 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    border: 1px solid black;
+    border-bottom: 1px dotted black;
 }
 
 li a:hover {
