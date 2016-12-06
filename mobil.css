@@ -53,8 +53,7 @@ h1
 {
         background-color: #ccffff;
 	color: black;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding: 5px;
 	text-align: center;
 	clear: both;
 	letter-spacing: -0.5px;
@@ -158,7 +157,8 @@ h1
 	height: 400px;
 	margin: auto;
 	text-align: justify;
-	padding: 15px;
+	padding-bottom: 30px;
+	padding-bottom: 30px;
 }
 
 
