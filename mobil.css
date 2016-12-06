@@ -66,16 +66,9 @@ h1
 	padding: 5px;
 }
 
-.inline
-{
-	clear: both;
-	display: flex;
-	width: 100%;
-	margin-top: 10px;
-}	
-
 .naglowek
 {
+	float: center;
 	width: 70%;
 	height: 400px;
 	overflow: scroll;
