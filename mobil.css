@@ -102,7 +102,7 @@ h1
 	margin: auto;
 	width:70%;
 	height: auto;
-	border: 1px solid black;
+	border-bottom: 1px dotted black;
 	padding:5px;
 }
 
