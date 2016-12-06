@@ -21,6 +21,7 @@ h1
 
 #logo
 {
+  text-align: center;	
   width: 15%;
   height: 15%;
 }
@@ -68,26 +69,29 @@ h1
 
 .naglowek
 {
-	width:30%;
+	width:25px;
 	height: 400px;
 	overflow: scroll;
 	padding-left: 5px;
 	padding-right: 5px;
 	text-align: justify;
+	border-bottom: 1px solid black;
 }
 
 .naglowek2
 {
-	width:30%;
+	width:25px;
 	height: 400px;
 	overflow: scroll;
 	padding-left: 5px;
 	padding-right: 5px;
 	text-align: justify;
+	border-bottom: 1px solid black;
 }
 
 .zdjecie
 {
+	
 	width:30%;
 	height: auto;
 	margin-left: 2.2%;
