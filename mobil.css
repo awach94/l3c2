@@ -168,7 +168,6 @@ ol {
     margin: auto;
     padding: 0;
     width: 70%;
-    border: 1px solid black;
 	
 }
 
@@ -177,6 +176,7 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    border: 1px solid black;
 }
 
 li a:hover {
