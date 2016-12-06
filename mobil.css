@@ -167,7 +167,9 @@ ol {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    width: 200px;
+    width: 70%;
+    border: 1px solid black;
+	
 }
 
 li a {
