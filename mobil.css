@@ -158,6 +158,7 @@ h1
 	margin: auto;
 	text-align: justify;
 	padding:5px;
+	overflow: scroll;
 }
 
 
