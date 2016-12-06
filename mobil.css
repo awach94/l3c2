@@ -69,7 +69,6 @@ h1
 
 .naglowek
 {
-	width:70%;
 	height: 400px;
 	overflow: scroll;
 	padding-left: 5px;
@@ -80,7 +79,6 @@ h1
 
 .naglowek2
 {
-	width:70%;
 	height: 400px;
 	overflow: scroll;
 	padding-left: 5px;
@@ -91,7 +89,7 @@ h1
 
 .zdjecie
 {
-	float: center;
+	text-align: center;
 	width:30%;
 	height: auto;
 }
